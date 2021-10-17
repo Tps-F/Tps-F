@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Ftps's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tps-F&show_icons=true&theme=onedark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tps-F&repo=github-readme-stats&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tps-F&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 

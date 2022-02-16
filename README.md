@@ -35,7 +35,7 @@
 ### 📕 Latest Qiita Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Disocrd.pyを用いたメインカラー抽出botの作成](https://qiita.com/Ftps/items/748fa614462aaa9bdb51o)
+- [Disocrd.pyを用いたメインカラー抽出botの作成](https://qiita.com/Ftps/items/748fa614462aaa9bdb51)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more qiita posts...](https://qiita.com/Ftps)

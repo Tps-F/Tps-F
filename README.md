@@ -7,7 +7,7 @@
 
 - I sometimes make Music
 - I'm an junior high school student in Japan
-- I like to make !
+- I like to make something!
 
 <br />
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tps-F&count_private=true" />

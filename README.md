@@ -6,7 +6,7 @@
 ## I'm a Developer, and DTMer!!
 
 - I sometimes make Music
-- I'm an junior high school student in Japan
+- I'm an high school student in Japan
 - I like to make something!
 
 <br />

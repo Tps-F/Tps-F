@@ -8,7 +8,7 @@
 - I sometimes make Music
 - I'm an high school student in Japan
 - I like to make something!
-- Discord: Ftps#3389
+- Discord: Ftps (old: Ftps#3389)
 
 <br />
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tps-F&count_private=true" />

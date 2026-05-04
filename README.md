@@ -1,6 +1,6 @@
-### Hi there, I'm Ftps - aka [Tps-F][website] 👋 
+### Hi there, I'm Akito Okamoto - aka [Ftps][website] 👋 
 
-[![Website](https://img.shields.io/website?label=WebSite&style=for-the-badge&url=https://tps-f.github.io/hp/)](https://tps-f.github.io/hp/)
+[![Portfolio](https://img.shields.io/website?label=WebSite&style=for-the-badge&url=https://tps-f.github.io/)](https://tps-f.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/TpsF15?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TpsF15?ref_src=twsrc%5Etfw)
 
 ## I'm a Computational Neuroscientist, MLDev, Developer, and DTMer!!
@@ -8,7 +8,7 @@
 - I sometimes make Music
 - I'm an high school student in Japan
 - I like to make something!
-- Discord: Ftps (old: Ftps#3389)
+- Discord: Ftps
 
 <br />
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tps-F&count_private=true" />

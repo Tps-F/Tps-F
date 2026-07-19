@@ -6,7 +6,7 @@
 ## I'm a Computational Neuroscientist, MLDev, Developer, and DTMer!!
 
 - I sometimes make Music
-- I'm an high school student in Japan
+- I'm an univ student in Japan
 - I like to make something!
 - Discord: Ftps
 
